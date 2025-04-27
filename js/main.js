@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	var typed = new Typed("#typed", {
-			strings: ['whoami <br/> \n `I am TARIKUL ISLAM <br/>` ^1000\n `I am a Software Developer <br/>` ^1000\n `Playing with latest techonologis last 6 years <br/>` ^1000\n `I love to working with latest techonologis <br/> Thanks `'],
+			strings: ['whoami <br/> \n `I am TARIKUL ISLAM <br/>` ^1000\n `I am a Software Developer <br/>` ^1000\n `Playing with latest techonologis more then 10 years <br/>` ^1000\n `I love to working with latest techonologis <br/> Thanks `'],
 			typeSpeed: 30,
     	backSpeed: 0,
       callback: function(){
